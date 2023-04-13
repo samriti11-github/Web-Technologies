@@ -1,0 +1,31 @@
+.grid{
+    width: 100%;
+    border: 1px solid blueviolet;
+    display:grid;
+    grid-template-columns: 250px 250px 250px;
+    grid-template-rows: 250px 250px;
+    grid-row-gap: 10px;
+    grid-column: 10px;
+
+
+    
+}
+.box2{
+    background-color: brown;
+}
+.box3{
+    background-color:teal
+}
+.box4{
+    background-color:palegreen;
+
+}
+
+.box5{
+    background-color:black;
+
+}
+.box6{
+    background-color: purple;
+
+}
